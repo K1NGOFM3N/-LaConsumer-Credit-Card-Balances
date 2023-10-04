@@ -1,4 +1,3 @@
-cd "D:\Grad school\ECON 5495"
 
 gen t = _n
 tsset t 
